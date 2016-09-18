@@ -1,2 +1,2 @@
-# cv2
-clone of cv
+# JayGuan.github.io
+Journey of Jay Guan
