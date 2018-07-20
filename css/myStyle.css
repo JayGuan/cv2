@@ -11,9 +11,7 @@
     height:63px;
 }
 
-.contact-margin-top {
-    margin-top: 30%;
-}
+
 
 .contactProfilePic {
     max-width:80%;
@@ -38,4 +36,16 @@
 
 .floatToLeft {
     float:left;
+}
+
+@media (min-width: 991px) {
+    .contact-margin-top {
+    margin-top: 30%;
+    }
+}
+
+@media (max-width: 991px) {
+    .contact-margin-top {
+    margin-top: 5%;
+    }
 }
