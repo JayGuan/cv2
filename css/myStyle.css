@@ -38,6 +38,11 @@
     float:left;
 }
 
+.li-for-titles {
+    margin-bottom: 20px;
+    font-size:24px;
+}
+
 @media (min-width: 991px) {
     .contact-margin-top {
     margin-top: 30%;
