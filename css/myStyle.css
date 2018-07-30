@@ -47,6 +47,10 @@
     cursor:pointer;
 }
 
+.text-to-right-of-icon {
+    margin-left: 10px;
+}
+
 @media (min-width: 991px) {
     .contact-margin-top {
     margin-top: 30%;
